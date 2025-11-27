@@ -3,4 +3,4 @@ def hello():
     return "Hello from gunjan"
 
 
-hello()
+    print(hello())

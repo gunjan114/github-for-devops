@@ -7,4 +7,4 @@ def my_function():
 if __name__ == "__main__":
     print(my_function())
     print("This is the end")
-    print(hello())
+
