@@ -2,6 +2,7 @@
 This module contains a simple demo function.
 """
 
+
 def my_function():
     """Returns the number 5."""
     a = 5
