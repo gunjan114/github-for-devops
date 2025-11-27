@@ -1,8 +1,5 @@
 def hello():
-    """
-    This is demo 
-    """
-
+    """Returns a greeting string."""
     return "Hello from gunjan"
 
 
